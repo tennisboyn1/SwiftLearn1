@@ -12,10 +12,10 @@ anser：那是因为Xcode默认就是有git库的，每一个工程都可以单�
 
 1.从工作区
       git add . ->
-                添加到暂存区
-           		->git commit -m "提交描述"
-						到了master分支
-							->git push origin mater 
-									退到远程服务器 
+              2. 添加到暂存区
+           	      git commit -m "提交描述"->
+					   3.到了master分支
+							git push origin mater-> 
+								    4.推到远程服务器 
 
   
